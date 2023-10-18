@@ -3,7 +3,7 @@ name: CH
 username: bbtzza
 bio: "Full Stack Web Developer"
 site: https://bbtzza.github.io/about/
-avatar: xplor4r.png
+avatar: bbtzza.png
 email: bbtzza@gmail.com
 social:
     - title: "github"
