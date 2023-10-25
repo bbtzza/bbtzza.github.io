@@ -1,9 +1,9 @@
 ---
 name: CH
-username: bbtzza
+username: CH
 bio: "Full Stack Web Developer"
 site: https://bbtzza.github.io/about/
-avatar: bbtzza.png
+avatar: CH.png
 email: bbtzza@gmail.com
 social:
     - title: "github"
